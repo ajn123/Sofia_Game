@@ -1,0 +1,3 @@
+pigslayer;kill 50 pigs;name;caption;description;link;true;
+pig king;kill 70 pigs;Pig King Games;Just unlocked an achievement;this is the best;http://cssdog.com/css_shortcuts.html;false;
+pig emperor;kill 100 pigs;name;caption;description;link;true;

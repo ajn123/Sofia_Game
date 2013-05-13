@@ -1,0 +1,9 @@
+   <resources>
+
+    <string name="hello_world">Hello world!</string><string name="app_name">Maze Solver</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_maze_solver_screen">Maze Solver</string>
+    <string name="app_id">395162870591364</string>
+
+</resources>
