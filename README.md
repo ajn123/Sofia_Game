@@ -1,4 +1,4 @@
-Sofia_Game
+Sofia Game
 ==========
 
 The two implementations in this project are as follows:
